@@ -19,6 +19,7 @@ html {
 	--bg-design-dark: url('/noodlebg.webp');
 	--brand-logo-dark: url('/BrandLogoLight.svg');
 	--border-dark: var(--cyan-2);
+	--outline-dark: var(--yellow-1);
 	--link-dark: var(--cyan-3);
 	--bg-grad-dark: linear-gradient(
 		165deg,
@@ -40,6 +41,7 @@ html {
 	--bg-design-light: url('/wireframe1.webp');
 	--brand-logo-light: url('/BrandLogoDark.svg');
 	--border-light: var(--blue-5);
+	--outline-light: var(--blue-4);
 	--link-light: var(--cyan-10);
 	--bg-grad-light: linear-gradient(
 		165deg,
@@ -64,6 +66,7 @@ html {
 	--bg-design: var(--bg-design-dark);
 	--brand-logo: var(--brand-logo-dark);
 	--border: var(--border-dark);
+	--outline: var(--outline-dark);
 	--link: var(--link-dark);
 	--bg-grad: var(--bg-grad-dark);
 	--grad-text: var(--gradtext-1-dark);
@@ -85,6 +88,7 @@ html {
 		--bg-design: var(--bg-design-light);
 		--brand-logo: var(--brand-logo-light);
 		--border: var(--border-light);
+		--outline: var(--outline-light);
 		--bg-grad: var(--bg-grad-light);
 		--link: var(--link-light);
 		--grad-text: var(--gradtext-1-light);
@@ -106,6 +110,7 @@ html {
 	--bg-design: var(--bg-design-dark);
 	--brand-logo: var(--brand-logo-dark);
 	--border: var(--border-dark);
+	--outline: var(--outline-dark);
 	--link: var(--link-dark);
 	--bg-grad: var(--bg-grad-dark);
 	--grad-text: var(--gradtext-1-dark);
@@ -126,6 +131,7 @@ html {
 	--bg-design: var(--bg-design-light);
 	--brand-logo: var(--brand-logo-light);
 	--border: var(--border-light);
+	--outline: var(--outline-light);
 	--bg-grad: var(--bg-grad-light);
 	--link: var(--link-light);
 	--grad-text: var(--gradtext-1-light);
