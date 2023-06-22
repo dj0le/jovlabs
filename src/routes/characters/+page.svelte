@@ -63,7 +63,7 @@
 
 <style>
 	.bot-grid :hover {
-		outline: 2px solid var(--text-3);
+		outline: 2px solid var(--outline);
 		outline-offset: 8px;
 		transition: 0.2s all ease;
 	}
