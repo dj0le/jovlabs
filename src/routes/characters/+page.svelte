@@ -71,7 +71,7 @@
 		outline: none;
 	}
 	.bot-grid :active {
-		border: 2px solid var(--outline;
+		border: 2px solid var(--outline);
 	}
 	.bot-pill :active {
 		border: none;
