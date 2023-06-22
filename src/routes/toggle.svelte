@@ -17,7 +17,7 @@
 		{/if}
 	</button>
 	<a href="https://github.com/pyrater/LLM-AI-BOT"><Github /></a>
-	<a href="mailto: wonder-bot@space-shift.com"><Mail /></a>
+	<a href="mailto: wonderbot@space-shift.com"><Mail /></a>
 </div>
 
 <style>
